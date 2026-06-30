@@ -38,6 +38,6 @@ const LINKS_DATA = [
   },
   {
   "caption": "Mind Map Generator",
-  "url": "https://clinquant-gecko-62db4d.netlify.app/"
+  "url": "https://thriving-otter-f0f8c2.netlify.app/"
   }
 ];
